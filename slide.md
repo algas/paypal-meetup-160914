@@ -10,7 +10,7 @@ class: center, middle, inverse
 
 PayPal Tech Meetup #3  
 山内 雅浩  
-.blue-text[@algas]
+@algas
 
 ---
 
@@ -108,7 +108,7 @@ http://demo.exticket.jp
 
 --
 
-### 最終目標: 大手旅行サイト運営企業に買収されること
+### 最終目標: 大手旅行サイト運営企業に買収され安定したサービスを提供すること
 
 ---
 
