@@ -89,7 +89,7 @@ Japan Rail Pass の所有者は窓口で席を予約しなければ指定席に�
 
 ## デモ
 
-https://demo.exticket.jp
+https://exticket-demo.herokuapp.com
 
 ### 開発環境
 
