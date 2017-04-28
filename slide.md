@@ -64,7 +64,7 @@ Japan Rail Pass の所有者は窓口で席を予約しなければ指定席に�
 
 --
 
-## Expedia.jp がお手伝いします！
+## Exticket.jp がお手伝いします！
 
 ---
 
